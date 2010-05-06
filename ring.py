@@ -4,6 +4,6 @@ class Ring:
 	self.burden = 'terrible'
 
     def equipped(self):
-        print('Look at me; I\'m invisible!')
+        print('Look at me; I\'m invisible!') 
 
 		
