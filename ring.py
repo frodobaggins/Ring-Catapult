@@ -6,4 +6,5 @@ class Ring:
     def equipped(self):
         print('Look at me; I\'m invisible!') 
 
-		
+    def weaken_owner(self, owner):
+        owner.state = 'weak'
